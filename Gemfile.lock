@@ -167,8 +167,6 @@ GEM
       racc (~> 1.4)
     nokogiri (1.12.5-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.12.5-x86_64-linux)
-      racc (~> 1.4)
     oauth2 (1.4.7)
       faraday (>= 0.8, < 2.0)
       jwt (>= 1.0, < 3.0)
@@ -343,13 +341,11 @@ GEM
     websocket-extensions (0.1.5)
     xpath (3.2.0)
       nokogiri (~> 1.8)
-    zeitwerk (2.5.2)
+    zeitwerk (2.5.3)
 
 PLATFORMS
   aarch64-linux
   arm64-darwin-20
-  ruby
-  x86_64-linux
 
 DEPENDENCIES
   aasm (~> 5.2)
@@ -388,9 +384,10 @@ DEPENDENCIES
   web-console (>= 4.1.0)
   webdrivers
   webpacker (~> 5.0)
+  zeitwerk (~> 2.5, >= 2.5.3)
 
 RUBY VERSION
    ruby 3.0.1p64
 
 BUNDLED WITH
-   2.2.31
+   2.2.15
