@@ -1387,21 +1387,21 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="parser (vbundled(3.0.3.2)) [path][gem]" type="rubylib">
+      <library name="parser (vbundled(3.1.0.0)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.0.3.2/bin" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.0.3.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.1.0.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.1.0.0/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.0.3.2/bin" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.0.3.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.1.0.0/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.1.0.0/lib" />
         </SOURCES>
         <excluded>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.0.3.2/bin" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/parser-3.1.0.0/bin" />
         </excluded>
       </library>
     </orderEntry>
@@ -1968,26 +1968,26 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="rubocop (vbundled(1.24.0)) [path][gem]" type="rubylib">
+      <library name="rubocop (vbundled(1.24.1)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/exe" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/lib" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/assets" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/config" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/config" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/exe" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/lib" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/assets" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/config" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/config" />
         </SOURCES>
         <excluded>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/exe" />
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.0/assets" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/exe" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/rubocop-1.24.1/assets" />
         </excluded>
       </library>
     </orderEntry>
@@ -2449,16 +2449,16 @@
       </library>
     </orderEntry>
     <orderEntry type="module-library">
-      <library name="zeitwerk (vbundled(2.5.2)) [path][gem]" type="rubylib">
+      <library name="zeitwerk (vbundled(2.5.3)) [path][gem]" type="rubylib">
         <properties>
           <option name="version" value="4" />
         </properties>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/zeitwerk-2.5.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/zeitwerk-2.5.3/lib" />
         </CLASSES>
         <JAVADOC />
         <SOURCES>
-          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/zeitwerk-2.5.2/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/3.0.0/gems/zeitwerk-2.5.3/lib" />
         </SOURCES>
       </library>
     </orderEntry>
