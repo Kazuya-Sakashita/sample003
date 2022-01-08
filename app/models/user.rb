@@ -8,7 +8,7 @@ class User < ApplicationRecord
   # has_many :skills, through: :skill_management
   # Include default devise modules. Others available are:
   # :confirmable, :lockable, :timeoutable, :trackable and :omniauthable
-  devise :database_authenticatable, :registerable,
+  devise :database_authenticatable, :registerable, :timeoutable,
          :recoverable, :rememberable, :validatable, :omniauthable, omniauth_providers: [:github]
 
   def self.from_omniauth(access_token)
