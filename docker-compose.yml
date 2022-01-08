@@ -38,7 +38,7 @@ services:
 
   sidekiq:
     build: .
-    command: bin/bundle exec sidekiq
+    command: bin/bundle exec sidekiq -C config/sidekiq.yml -d
     volumes:
       - .:/app
       - bundle_data:/usr/local/bundle
